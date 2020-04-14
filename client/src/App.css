@@ -1,0 +1,30 @@
+p{
+  margin: 10px;
+  font-size: 60px;
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+span{
+  margin: 1%;
+}
+
+div{
+  margin: 25px;
+}
+
+img {
+  height: 200px;
+  width: 250px;
+}
+
+h3 {
+  display: inline;
+}
+
+input {
+  margin: 15px !important;
+}
