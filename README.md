@@ -1,6 +1,6 @@
 ## Pictures Site 😷
 
-👉🏽 [Demo](https://corona-data-stats.netlify.com)
+👉🏽 [Demo](https://pictures-itai-web.herokuapp.com/)
 
 🌟 app to upload your pictures. 
 
