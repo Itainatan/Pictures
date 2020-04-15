@@ -1,4 +1,4 @@
-## Pictures Site 😷
+## Pictures Site 📸
 
 👉🏽 [Demo](https://pictures-itai-web.herokuapp.com/)
 
